@@ -1,4 +1,4 @@
- public class HistoricalEvent {
+public class HistoricalEvent {
     // Instance variables
     private String description;
     private Date date;
